@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"key",
+				"keyArr"
+			],
+			[
+				"tmp",
+				"tmpfile"
+			],
+			[
+				"filea",
+				"fileArr"
+			],
+			[
+				"file",
+				"fileArr"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"bag",
+				"background"
+			],
+			[
+				"light",
+				"line-height"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"get",
+				"getMinutes"
+			],
+			[
+				"te",
+				"temperature"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"out",
+				"outline-style"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bg",
+				"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"border",
+				"border-top-color"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"opt",
+				"optgroup\t<optgroup>"
+			],
+			[
+				"sel",
+				"selected\tAttr"
+			],
+			[
+				"fi",
+				"fieldset\t<fieldset>"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"col",
+				"colspan\tAttr"
+			],
+			[
+				"ceil",
+				"cellspacing\tAttr"
+			],
+			[
+				"http",
+				"http-equiv\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Git/bash/baidu.html",
+		"/E/Git/bash/index.html",
+		"/E/BaiduNetdiskDownload/04-JD实战/02.JD第二天/jd/index.html",
+		"/E/www/ajax-thirdday/11-starlist/starlist.xml",
+		"/E/www/ajax-thirdday/11-starlist/test.html",
+		"/C/Users/Administrator/Desktop/css/index.html",
+		"/E/www/10-ajax-demo/ajax.php",
+		"/E/www/08-upfile/file.html",
+		"/E/www/08-upfile/file.php",
+		"/E/www/09-ajax/01.html",
+		"/E/www/07-twoarray/01.php",
+		"/E/www/07-二维数组/01.php",
+		"/E/www/06-post/post.html",
+		"/E/www/ailvxing/login.php",
+		"/E/www/07-knowledges/01.php",
+		"/E/wamp/bin/mysql/mysql5.5.20/docs/ChangeLog",
+		"/E/wamp/bin/mysql/mysql5.5.20/README",
+		"/E/www/ailvxing/mylogin.html",
+		"/E/www/06-post/post.php",
+		"/E/wamp/bin/mysql/mysql5.5.20/wampserver.conf",
+		"/E/wamp/bin/mysql/mysql5.5.20/COPYING",
+		"/E/www/05-get/get.html",
+		"/E/www/05-get/get.php",
+		"/E/www/06-post",
+		"/E/www/04.php",
+		"/E/BaiduNetdiskDownload/09-HTML5+CSS3/23-CSS3第一天/23-CSS3/4-代码/01-css3选择器/案例/07 选择器-应用-首字下沉-练习.html",
+		"/E/www/03.php",
+		"/E/www/2.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/snippets/p_header.sublime-snippet",
+		"/E/www/1.php",
+		"/E/www/5-3/1.php",
+		"/E/wamp/bin/apache/Apache2.2.21/conf/httpd.conf",
+		"/C/Users/Administrator/Desktop/css/京东第二遍/index.html",
+		"/C/Users/Administrator/Desktop/css/京东第二遍/base.css",
+		"/C/Users/Administrator/Desktop/css/JS基础一/for循环案例2.html",
+		"/C/Users/Administrator/Desktop/css/京东第二遍/index.css",
+		"/C/Users/Administrator/Desktop/css/各种复习/复习.html",
+		"/C/Users/Administrator/Desktop/css/京东实战/index.html",
+		"/C/Users/Administrator/Desktop/css/京东实战/index.css",
+		"/C/Users/Administrator/Desktop/css/京东实战/base.css",
+		"/C/Users/Administrator/Desktop/css/css基础一/京东第三天最后小知识点2.html",
+		"/C/Users/Administrator/Desktop/css/css基础一/京东第三天最后小知识点.html",
+		"/E/BaiduNetdiskDownload/04-JD实战/02.JD第二天/jd/demo.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/圆角.html",
+		"/C/Users/Administrator/Desktop/css/css基础五/定位精灵图案例.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/overflow属性.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/函数的定义和调用.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/数组.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/continue语句.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/while循环.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/for循环.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/dowhile循环.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/自增自减.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/switch语句.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/作业讲解.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/三元表达式.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/ifelse嵌套结构.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/ifelse条件判断.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/等号运算符.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/逻辑运算符.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/数据类型转换小案例.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/算术运算符.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/数据类型转换.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/Math方法.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/date对象.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/数据类型.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/变量加法案例.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/变量.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/页面输出信息的几种方式.html",
+		"/C/Users/Administrator/Desktop/css/JS基础一/1.js",
+		"/C/Users/Administrator/Desktop/css/css小米案例/小米.html",
+		"/C/Users/Administrator/Desktop/css/css小米案例/index.css",
+		"/C/Users/Administrator/Desktop/css/css小米案例/images/index.css",
+		"/C/Users/Administrator/Desktop/css/css基础七/头部导航.html",
+		"/C/Users/Administrator/Desktop/css/css基础七/index.css",
+		"/E/BaiduNetdiskDownload/9.css基础七上课资料-上/03搜索部分.avi",
+		"/C/Users/Administrator/Desktop/css/css基础六/尚合头部.html",
+		"/C/Users/Administrator/Desktop/css/css基础六/滑动门.html",
+		"/C/Users/Administrator/Desktop/css/css基础五/Emmet语法.html",
+		"/C/Users/Administrator/Desktop/css/css基础五/tab切换.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/可见性.html",
+		"/C/Users/Administrator/Desktop/css/css基础五/顺丰盒子定位练习.html",
+		"/C/Users/Administrator/Desktop/css/css基础五/定位盒子居中显示.html",
+		"/C/Users/Administrator/Desktop/css/css基础五/固定定位.html",
+		"/C/Users/Administrator/Desktop/css/css基础五/导航作业.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/固定定位.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/小米官网案例.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/相对定位.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/浮动原理.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/上合导航.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/简单导航.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/文本绕图.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/个人资料练习.html",
+		"/C/Users/Administrator/Desktop/css/css基础四/爱宠知识联系.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/行内动态案例.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/外边距塌陷.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/垂直方向外边距合并.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/新浪导航.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/外边距.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/继承的盒子一般不被撑大.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/内边距影响盒子大小.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/表单控件案例.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/盒子模型之边框.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/行高单位.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/购物车案例.html",
+		"/C/Users/Administrator/Desktop/css/css基础三/五彩导航.html",
+		"/C/Users/Administrator/Desktop/css/css基础二/背景案例.html",
+		"/C/Users/Administrator/Desktop/css/css基础二/背景属性.html",
+		"/C/Users/Administrator/Desktop/css/css基础二/装行内块.html",
+		"/C/Users/Administrator/Desktop/css/css基础二/链接导航案例.html",
+		"/C/Users/Administrator/Desktop/css/css基础二/综合案例.html",
+		"/C/Users/Administrator/Desktop/css/css基础一/并集选择器.html",
+		"/C/Users/Administrator/Desktop/css/并集选择器.html",
+		"/C/Users/Administrator/Desktop/css/文字属性.html",
+		"/C/Users/Administrator/Desktop/css/文字的表达方式.html",
+		"/C/Users/Administrator/Desktop/css/子代选择器.html",
+		"/C/Users/Administrator/Desktop/css/后代选择器.html",
+		"/C/Users/Administrator/Desktop/css/交集选择器.html",
+		"/C/Users/Administrator/Desktop/css/通配符选择器.html",
+		"/C/Users/Administrator/Desktop/css/ID选择器.html",
+		"/C/Users/Administrator/Desktop/css/类选择器.html",
+		"/C/Users/Administrator/Desktop/css/google作业.html",
+		"/C/Users/Administrator/Desktop/css/标签选择器.html",
+		"/C/Users/Administrator/Desktop/Html/复习.html",
+		"/C/Users/Administrator/Desktop/Html/注册表练习.html",
+		"/C/Users/Administrator/Desktop/Html/10表单控件.html",
+		"/C/Users/Administrator/Desktop/Html/09表单.html",
+		"/C/Users/Administrator/Desktop/Html/课程表细线表格.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
